@@ -20,8 +20,10 @@ class HelloWorld {
         return longSub;
     }
     public static void main(String[] args) {
+        // Let str1 = "VIVEK"
+        // Let str2 = "SVIVEKSINGH"        
+        //  Output: "VIVEK"
         String str1="VIVEK";
-        // Output: KHOPK
         String str2="SVIVEKSINGH";
         String longSiml=longAns(str1,str2);
 
